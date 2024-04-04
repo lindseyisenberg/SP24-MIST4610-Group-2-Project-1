@@ -107,12 +107,8 @@ List the coach’s name and the names of the players they coach. Order by name (
 
 <h2>Query 2</h2>
 List the maximum transaction amount and the parent who made the transaction
-SELECT firstName, lastName, amount 
-FROM Parents 
-JOIN Financial_Transactions ON Parents.parentID = Financial_Transactions.Parents_parentID
-WHERE amount = (SELECT MAX(amount) as max_amount FROM Financial_Transactions)
-GROUP BY firstName, lastName, amount;
-This SQL query finds the parent who made the largest transaction and provides their name. A manager can use this information to identify their highest-spending parent donors.
+
+
 
 <h2>Query 3</h2>
 
