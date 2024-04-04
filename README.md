@@ -102,11 +102,13 @@ providing a seamless experience for coaches, teams, and players.
 
 <h2>Query 1</h2>
 List the coach’s name and the names of the players they coach. Order by name (descending).
+![Screenshot (121)](https://github.com/nathanp2020/SP24-MIST4610-Group-2-Project-1/assets/148779254/629cd2c3-a3c4-4aeb-a69f-451f49b86274)
 
+The SQL query to list the coach's name and the names of the players they coach is useful for various reasons, especially in the context of sports management or team organization. It provides valuable insights into the coaching relationships within a sports team or organization. Listing by descending employee name allows a manager to quickly view coaches in alphabetical order and the players under them.
 
 
 <h2>Query 2</h2>
-List the maximum transaction amount and the parent who made the transaction
+List the maximum transaction amount and the parent who made the transaction.
 
 
 
