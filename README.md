@@ -16,8 +16,9 @@ Ore Pratt [@nathanp2020](https://github.com/nathanp2020) <br>
     Coaches can also offer training sessions, which is depicted through a one to many relationship since one coach can have many training sessions and a training session is led by one coach. Information about the training sessions is documented such as sessionID, location, the coach that leads the session, and the division. Coaches are also connected to players, as a coach can coach many players at one time. The next offshoot of our club entity is the executives entity, which is also connected through a many to many relationship. It contains information such as their names and contact information. However, this entity also contains a 1:1 recursive relationship. There are club executives that manage the entire organization, but also league administrators for each division. Executives can also be league administrators, which is shown by the non-identifying 1:1 recursive relationship labeled as “league administrators.” 
     Next is the equipment table, which houses information such as the equipmentID, type, date of rental, and date returned. A one to many relationship is formed because one club have many pieces of equipment, and equipment belongs to one club. The last entity directly connected to the club is the tournaments entity, which stores information about the tournament name and location. Tournaments are housed in facilities, which is shown through a 1:1 relationship since a tournament can be in one facility and a facility can only house one tournament at a time as per the club’s rules. This data model allows the soccer club to effectively store all of its information, providing a seamless experience for coaches, teams, and players. 
 
+<img width="838" alt="image" src="https://github.com/nathanp2020/SP24-MIST4610-Group-2-Project-1/assets/163202597/6ec17357-d417-485b-91fc-1edb1aa46bad">
 
-![image](data model Image link here)
+
 
 # Data Dictionary ssets/148125982/760c58c1-7615-4f5b-add8-b42024dcf91b)
 ![image] 
