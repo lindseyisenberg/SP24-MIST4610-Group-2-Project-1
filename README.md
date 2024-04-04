@@ -4,7 +4,7 @@
 # Team Members 
 Rohan Patel [yourGitHubNameHere](yourGitHub URL Here)  <br>
 Grace Okpurukre  [yourGitHubNameHere](yourGitHub URL Here) <br>
-Lindsey Isenberg [yourGitHubNameHere](yourGitHub URL Here)  <br>
+Lindsey Isenberg [lindseyisenberg](https://github.com/lindseyisenber)  <br>
 Catherine Repke  [yourGitHubNameHere](yourGitHub URL Here) <br> 
 Ore Pratt [@nathanp2020](https://github.com/nathanp2020) <br> 
 # Problem Description:
