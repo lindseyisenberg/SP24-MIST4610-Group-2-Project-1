@@ -72,7 +72,7 @@ providing a seamless experience for coaches, teams, and players.
 
 <h1> Financial Transactions Table </h1>
 
-<img width="503" alt="image" src="https://github.com/nathanp2020/SP24-MIST4610-Group-2-Project-1/assets/163202597/a04079bc-2f34-40b7-9af3-b9b82ab19324">
+<img width="500" alt="image" src="https://github.com/nathanp2020/SP24-MIST4610-Group-2-Project-1/assets/163202597/769ee5e9-5c0d-45d7-9f9d-b1e5338f5fb7">
 
 <h1> Players Table </h1>
 
