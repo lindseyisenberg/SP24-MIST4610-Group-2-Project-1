@@ -73,6 +73,49 @@ providing a seamless experience for coaches, teams, and players.
 
 # Queries 
 
+##Here goes the Query Chart
+
+<h2>Query 1</h2>
+List the coach’s name and the names of the players they coach. Order by name (descending).
+
+
+
+<h2>Query 2</h2>
+
+
+<h2>Query 3</h2>
+
+
+<h2>Query 4</h2>
+
+
+<h2>Query 5</h2>
+
+
+<h2>Query 6</h2>
+
+
+<h2>Query 7</h2>
+
+
+<h2>Query 8</h2>
+
+
+<h2>Query 9</h2>
+
+
+<h2>Query 10</h2>
+
+
+
+
+
+
+
+
+
+
+
 
 
 
