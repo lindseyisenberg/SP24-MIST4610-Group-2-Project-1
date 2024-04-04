@@ -113,28 +113,28 @@ List the maximum transaction amount and the parent who made the transaction.
 
 
 <h2>Query 3</h2>
-
+Find the capacity of each facility for where the tournaments are being held. Order the results by capacity in descending order.
 
 <h2>Query 4</h2>
-
+List the coaches for each club and their contact information
 
 <h2>Query 5</h2>
-
+List the parents who have players in both the college and professional age divisions by alphabetical order
 
 <h2>Query 6</h2>
-
+List the sponsors who have made donations over $5000 and the teams they are sponsors for, sort by descending amount.
 
 <h2>Query 7</h2>
-
+List all coaches who are associated with clubs that have a specific type of equipment, such as 'shoes’
 
 <h2>Query 8</h2>
-
+Find all jerseys rented on in the month of April, group by club name
 
 <h2>Query 9</h2>
-
+list the parents names of players who are sponsored by Addias and also pay fees over $8000
 
 <h2>Query 10</h2>
-
+List the players and coaches whose training sessions are located in the AL East 
 
 
 
