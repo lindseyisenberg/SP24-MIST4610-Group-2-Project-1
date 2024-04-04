@@ -70,7 +70,11 @@ providing a seamless experience for coaches, teams, and players.
 
 <img width="500" alt="image" src="https://github.com/nathanp2020/SP24-MIST4610-Group-2-Project-1/assets/163202597/8f7d1a0f-8c98-43ea-bfc9-9722318e1550">
 
-<h1> Players </h1>
+<h1> Financial Transactions Table </h1>
+
+<img width="503" alt="image" src="https://github.com/nathanp2020/SP24-MIST4610-Group-2-Project-1/assets/163202597/a04079bc-2f34-40b7-9af3-b9b82ab19324">
+
+<h1> Players Table </h1>
 
 <img width="498" alt="image" src="https://github.com/nathanp2020/SP24-MIST4610-Group-2-Project-1/assets/163202597/4db31ca9-4528-4754-aea6-79a5c5aa548d">
 
@@ -82,13 +86,15 @@ providing a seamless experience for coaches, teams, and players.
 
 <img width="501" alt="image" src="https://github.com/nathanp2020/SP24-MIST4610-Group-2-Project-1/assets/163202597/9b699ff5-944a-4e1c-ae4a-f0c3f9ad1659">
 
-<h1> Sponsors/Donors </h1>
-
-<img width="499" alt="image" src="https://github.com/nathanp2020/SP24-MIST4610-Group-2-Project-1/assets/163202597/b3e91c3a-414a-40c2-b40d-6634c5bf5f79">
-
 <h1> Training Sessions Table </h1>
 
 <img width="500" alt="image" src="https://github.com/nathanp2020/SP24-MIST4610-Group-2-Project-1/assets/163202597/08410e7b-7a35-436c-b5d1-16895b503437">
+
+<h1> Sponsors/Donors Table </h1>
+
+<img width="499" alt="image" src="https://github.com/nathanp2020/SP24-MIST4610-Group-2-Project-1/assets/163202597/b3e91c3a-414a-40c2-b40d-6634c5bf5f79">
+
+
 
 # Queries 
 
