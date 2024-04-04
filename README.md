@@ -8,6 +8,7 @@ Lindsey Isenberg [yourGitHubNameHere](yourGitHub URL Here)  <br>
 Catherine Repke  [yourGitHubNameHere](yourGitHub URL Here) <br> 
 Ore Pratt [@nathanp2020](https://github.com/nathanp2020) <br> 
 # Problem Description:
+ Our aim is to build a database for a soccer club through multiple entities with relationships such as many-to-many, recursive, and one to many. The club entity is the heart of our operations as it holds many of the relationships between players, coaches, teams, equipment, etc. Our project displays the relationships between the different entities along with a database that holds information about our operations. Finally, we have written queries that are useful in finding important information about the club.
 
 # Data Model 
 
