@@ -46,7 +46,7 @@ providing a seamless experience for coaches, teams, and players.
 
 
 # Data Dictionary ssets/148125982/760c58c1-7615-4f5b-add8-b42024dcf91b)
-Age Division Table
+<h1> Age Division Table </h1>
 
 <img width="499" alt="image" src="https://github.com/nathanp2020/SP24-MIST4610-Group-2-Project-1/assets/163202597/c8f0af48-5c0a-4a91-84fd-ffe4f66610ea">
 
