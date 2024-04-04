@@ -111,33 +111,52 @@ The SQL query to list the coach's name and the names of the players they coach i
 List the maximum transaction amount and the parent who made the transaction.
 
 
+This SQL query finds the parent who made the largest transaction and provides their name. A manager can use this information to identify their highest-spending parent donors.
+
 
 <h2>Query 3</h2>
 Find the capacity of each facility for where the tournaments are being held. Order the results by capacity in descending order.
 
+
+This SQL query retrieves information about tournaments along with the corresponding facility information and its capacity. This information is valuable for tournament managers who need to know the capacity of their facilities and the city in which the tournament is being held.
+
 <h2>Query 4</h2>
 List the coaches for each club and their contact information
+
+
+This SQL query retrieves a list of the coaches and their email. This query is useful for anyone interested in the leadership of the clubs in the league, and gives them contact information should they want to reach out.
 
 <h2>Query 5</h2>
 List the parents who have players in both the college and professional age divisions by alphabetical order
 
+
+This SQL query retrieves a list of parents who have players in both the college and professional age divisions. It provides a clear view of which players have players in both. This information is valuable for recognizing what parents identify with which kids.
+
 <h2>Query 6</h2>
 List the sponsors who have made donations over $5000 and the teams they are sponsors for, sort by descending amount.
+
+This SQL query retrieves a list of sponsors, their associated teams, and the sponsorship payment amounts. It provides a clear view of sponsors contributing significant amounts (exceeding $1000) to specific teams. This information is valuable for recognizing and nurturing key sponsor relationships, evaluating the financial impact of sponsorships, and determining which teams have attracted substantial sponsor support. Managers can use these insights to develop targeted strategies for engaging and retaining high-value sponsors, contributing to the financial health and success of their teams or organization.
 
 <h2>Query 7</h2>
 List all coaches who are associated with clubs that have a specific type of equipment, such as 'shoes’
 
+
+This query retrieves a list of financial transactions as well as the player name associated with each transaction record. provides transparency regarding financial transactions involving players, aiding in financial management and accountability.
+
 <h2>Query 8</h2>
-Find all jerseys rented on in the month of April, group by club name
+Find all jerseys rented on in the month of April to teams with Tiger in their name, group by club name
 
 <h2>Query 9</h2>
 list the parents names of players who are sponsored by Addias and also pay fees over $8000
+
+
+This query generates a list of players' parents who pay over 8000 dollars in fees and whose child is also sponsored by Adidas.  This query is useful for knowing which players' families pay higher fees and can help the club forecast and manage its finances more effectively and which companies are sponsoring these players. 
 
 <h2>Query 10</h2>
 List the players and coaches whose training sessions are located in the AL East 
 
 
-
+This query would generate a list of teams that have training sessions located on the East Coast. This information would allow teams and players to stay up to date on team training schedules and where each team hosts their training sessions.
 
 
 
