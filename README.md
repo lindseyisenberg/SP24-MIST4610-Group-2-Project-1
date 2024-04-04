@@ -46,8 +46,18 @@ providing a seamless experience for coaches, teams, and players.
 
 
 # Data Dictionary ssets/148125982/760c58c1-7615-4f5b-add8-b42024dcf91b)
-![image] 
-(images go here)
+Age Division Table
+<img width="499" alt="image" src="https://github.com/nathanp2020/SP24-MIST4610-Group-2-Project-1/assets/163202597/c8f0af48-5c0a-4a91-84fd-ffe4f66610ea">
+Club Table
+<img width="451" alt="image" src="https://github.com/nathanp2020/SP24-MIST4610-Group-2-Project-1/assets/163202597/1af5ce1f-21af-4a05-8805-99a4d2e50607">
+Coaches Table
+<img width="499" alt="image" src="https://github.com/nathanp2020/SP24-MIST4610-Group-2-Project-1/assets/163202597/f7dd3664-879f-4b91-a6a5-5b6a11406b56">
+Executives Table
+<img width="498" alt="image" src="https://github.com/nathanp2020/SP24-MIST4610-Group-2-Project-1/assets/163202597/4543b83d-3aa5-4206-9ad9-caf9e5d9dff4">
+Equipment Table
+<img width="521" alt="image" src="https://github.com/nathanp2020/SP24-MIST4610-Group-2-Project-1/assets/163202597/febe02d8-2984-4fff-8a4d-6ae640930ad1">
+
+
 # Queries 
 
 
