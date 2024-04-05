@@ -52,7 +52,7 @@ providing a seamless experience for coaches, teams, and players.
 
 <h1> Club Table </h1>
 
-<img width="451" alt="image" src="https://github.com/nathanp2020/SP24-MIST4610-Group-2-Project-1/assets/163202597/1af5ce1f-21af-4a05-8805-99a4d2e50607">
+<img width="455" alt="image" src="https://github.com/nathanp2020/SP24-MIST4610-Group-2-Project-1/assets/163202597/ec2987ad-2d46-4442-9525-b4773ddc4474">
 
 <h1> Coaches Table </h1>
 
