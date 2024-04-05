@@ -1,5 +1,5 @@
 # Group-2-MIST-4610-Project-1
-# Team name 
+# Team Name 
 21482 Group 2
 # Team Members 
 Rohan Patel [@rohpat](https://github.com/rohpat)  <br>
@@ -46,51 +46,51 @@ providing a seamless experience for coaches, teams, and players.
 
 
 # Data Dictionary 
-<h1> Age Division Table </h1>
+<h2> Age Division Table </h2>
 
 <img width="499" alt="image" src="https://github.com/nathanp2020/SP24-MIST4610-Group-2-Project-1/assets/163202597/c8f0af48-5c0a-4a91-84fd-ffe4f66610ea">
 
-<h1> Club Table </h1>
+<h2> Club Table </h2>
 
 <img width="455" alt="image" src="https://github.com/nathanp2020/SP24-MIST4610-Group-2-Project-1/assets/163202597/ec2987ad-2d46-4442-9525-b4773ddc4474">
 
-<h1> Coaches Table </h1>
+<h2> Coaches Table </h2>
 
 <img width="499" alt="image" src="https://github.com/nathanp2020/SP24-MIST4610-Group-2-Project-1/assets/163202597/f7dd3664-879f-4b91-a6a5-5b6a11406b56">
 
-<h1> Executives Table </h1>
+<h2> Executives Table </h2>
 
 <img width="498" alt="image" src="https://github.com/nathanp2020/SP24-MIST4610-Group-2-Project-1/assets/163202597/4543b83d-3aa5-4206-9ad9-caf9e5d9dff4">
 
-<h1> Equipment Table </h1>
+<h2> Equipment Table </h2>
 
 <img width="499" alt="image" src="https://github.com/nathanp2020/SP24-MIST4610-Group-2-Project-1/assets/163202597/2f8f5041-18d1-4004-ac76-9873edff6284">
 
-<h1> Facilities Table </h1>
+<h2> Facilities Table </h2>
 
 <img width="500" alt="image" src="https://github.com/nathanp2020/SP24-MIST4610-Group-2-Project-1/assets/163202597/8f7d1a0f-8c98-43ea-bfc9-9722318e1550">
 
-<h1> Financial Transactions Table </h1>
+<h2> Financial Transactions Table </h2>
 
 <img width="503" alt="image" src="https://github.com/nathanp2020/SP24-MIST4610-Group-2-Project-1/assets/163202597/d67440d6-2756-49ab-b808-0f08fecdfe9c">
 
-<h1> Parents Table </h1>
+<h2> Parents Table </h2>
 
 <img width="502" alt="image" src="https://github.com/nathanp2020/SP24-MIST4610-Group-2-Project-1/assets/163202597/2350d81a-2d4b-494b-a85a-5d748095a3a3">
 
-<h1> Players Table </h1>
+<h2> Players Table </h2>
 
 <img width="498" alt="image" src="https://github.com/nathanp2020/SP24-MIST4610-Group-2-Project-1/assets/163202597/4db31ca9-4528-4754-aea6-79a5c5aa548d">
 
-<h1> Sponsors/Donors Table </h1>
+<h2> Sponsors/Donors Table </h2>
 
 <img width="503" alt="image" src="https://github.com/nathanp2020/SP24-MIST4610-Group-2-Project-1/assets/163202597/30d5aac5-668f-4401-8e39-9b390af57d4b">
 
-<h1> Tournaments Table </h1>
+<h2> Tournaments Table </h2>
 
 <img width="501" alt="image" src="https://github.com/nathanp2020/SP24-MIST4610-Group-2-Project-1/assets/163202597/9b699ff5-944a-4e1c-ae4a-f0c3f9ad1659">
 
-<h1> Training Sessions Table </h1>
+<h2> Training Sessions Table </h2>
 
 <img width="500" alt="image" src="https://github.com/nathanp2020/SP24-MIST4610-Group-2-Project-1/assets/163202597/08410e7b-7a35-436c-b5d1-16895b503437">
 
@@ -105,7 +105,9 @@ providing a seamless experience for coaches, teams, and players.
 
 # Queries 
 
-##Here goes the Query Chart
+
+![Screenshot (269)](https://github.com/nathanp2020/SP24-MIST4610-Group-2-Project-1/assets/148779254/5c7b27ca-f66f-4a9d-b7d2-13492e0257bc)
+
 
 <h2>Query 1</h2>
 1. List the coach’s name and the names of the players they coach. Order by name (descending).
@@ -192,7 +194,12 @@ This query generates a list of players' parents who pay over 8000 dollars in fee
 
 This query would generate a list of teams that have training sessions located on the East Coast. This information would allow teams and players to stay up to date on team training schedules and where each team hosts their training sessions.
 
+# Database Information
 
+The name of the database on the mySQL server is: al_Group_21482_G2
+
+Each query listed above is marked in the database using stored procedures which can be called using the following format: "CALL TP_Q1();", "CALL TP_Q2();", "CALL TP_Q3();"
+and so forth.
 
 
 
