@@ -171,7 +171,7 @@ This SQL query retrieves a list of sponsors, their associated teams, and the spo
 This query retrieves a list of financial transactions as well as the player name associated with each transaction record. It also provides transparency regarding financial transactions involving players, aiding in financial management and accountability.
 
 <h2>Query 8</h2>
-8. Find all jerseys rented in 2024 to teams with Tiger in their name, group by club name.
+8. Find all jerseys rented in 2024 and group them by club name.
 
 ![image](https://github.com/nathanp2020/SP24-MIST4610-Group-2-Project-1/assets/148779254/25c652d2-3107-4116-b823-f20b33465b82)
 
