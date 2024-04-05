@@ -72,15 +72,15 @@ providing a seamless experience for coaches, teams, and players.
 
 <h1> Financial Transactions Table </h1>
 
-<img width="497" alt="image" src="https://github.com/nathanp2020/SP24-MIST4610-Group-2-Project-1/assets/163202597/1dc1a4d9-47f5-4c28-a496-10669c66d95b">
-
-<h1> Players Table </h1>
-
-<img width="498" alt="image" src="https://github.com/nathanp2020/SP24-MIST4610-Group-2-Project-1/assets/163202597/4db31ca9-4528-4754-aea6-79a5c5aa548d">
+<img width="503" alt="image" src="https://github.com/nathanp2020/SP24-MIST4610-Group-2-Project-1/assets/163202597/d67440d6-2756-49ab-b808-0f08fecdfe9c">
 
 <h1> Parents Table </h1>
 
 <img width="502" alt="image" src="https://github.com/nathanp2020/SP24-MIST4610-Group-2-Project-1/assets/163202597/2350d81a-2d4b-494b-a85a-5d748095a3a3">
+
+<h1> Players Table </h1>
+
+<img width="498" alt="image" src="https://github.com/nathanp2020/SP24-MIST4610-Group-2-Project-1/assets/163202597/4db31ca9-4528-4754-aea6-79a5c5aa548d">
 
 <h1> Sponsors/Donors Table </h1>
 
