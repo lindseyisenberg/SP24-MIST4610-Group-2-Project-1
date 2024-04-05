@@ -4,7 +4,7 @@
 # Team Members 
 Rohan Patel [@rohpat](https://github.com/rohpat)  <br>
 Grace Okpurukre  [@graceokpurukre](https://github.com/graceokpurukre) <br>
-Lindsey Isenberg [@lindseyisenberg](https://github.com/lindseyisenber)  <br>
+Lindsey Isenberg [@lindseyisenberg](https://github.com/lindseyisenberg)  <br>
 Catherine Repke  [@catherinerepke](https://github.com/catherinerepke) <br> 
 Ore Pratt [@nathanp2020](https://github.com/nathanp2020) <br> 
 # Problem Description:
