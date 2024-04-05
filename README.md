@@ -86,13 +86,15 @@ providing a seamless experience for coaches, teams, and players.
 
 <img width="503" alt="image" src="https://github.com/nathanp2020/SP24-MIST4610-Group-2-Project-1/assets/163202597/30d5aac5-668f-4401-8e39-9b390af57d4b">
 
+<h1> Tournaments Table </h1>
+
+<img width="501" alt="image" src="https://github.com/nathanp2020/SP24-MIST4610-Group-2-Project-1/assets/163202597/9b699ff5-944a-4e1c-ae4a-f0c3f9ad1659">
+
 <h1> Training Sessions Table </h1>
 
 <img width="500" alt="image" src="https://github.com/nathanp2020/SP24-MIST4610-Group-2-Project-1/assets/163202597/08410e7b-7a35-436c-b5d1-16895b503437">
 
-<h1> Tournaments Table </h1>
 
-<img width="501" alt="image" src="https://github.com/nathanp2020/SP24-MIST4610-Group-2-Project-1/assets/163202597/9b699ff5-944a-4e1c-ae4a-f0c3f9ad1659">
 
 
 
