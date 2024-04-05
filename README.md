@@ -109,6 +109,7 @@ providing a seamless experience for coaches, teams, and players.
 
 <h2>Query 1</h2>
 List the coach’s name and the names of the players they coach. Order by name (descending).
+
 ![image](https://github.com/nathanp2020/SP24-MIST4610-Group-2-Project-1/assets/148779254/78b0ab4c-aef9-4570-91e8-92fc92708ae7)
 
 
@@ -117,6 +118,7 @@ The SQL query to list the coach's name and the names of the players they coach i
 
 <h2>Query 2</h2>
 List the maximum transaction amount and the parent who made the transaction.
+
 ![image](https://github.com/nathanp2020/SP24-MIST4610-Group-2-Project-1/assets/148779254/63d742a1-89a9-44d2-b5aa-b828aebbb022)
 
 
