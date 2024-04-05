@@ -92,7 +92,8 @@ providing a seamless experience for coaches, teams, and players.
 
 <h1> Sponsors/Donors Table </h1>
 
-<img width="499" alt="image" src="https://github.com/nathanp2020/SP24-MIST4610-Group-2-Project-1/assets/163202597/b3e91c3a-414a-40c2-b40d-6634c5bf5f79">
+<img width="503" alt="image" src="https://github.com/nathanp2020/SP24-MIST4610-Group-2-Project-1/assets/163202597/30d5aac5-668f-4401-8e39-9b390af57d4b">
+
 
 
 
