@@ -146,7 +146,7 @@ This SQL query retrieves information about tournaments along with the correspond
 This SQL query retrieves a list of the coaches and their email. This query is useful for anyone interested in the leadership of the clubs in the league, and gives them contact information should they want to reach out.
 
 <h2>Query 5</h2>
-5. List the parents who have players in both the college and professional age divisions by alphabetical order
+5. List the parents who have players in both the college and professional age divisions by alphabetical order.
 
 ![image](https://github.com/nathanp2020/SP24-MIST4610-Group-2-Project-1/assets/148779254/ee40d066-55df-4d9f-bacc-b6181b1979f0)
 
@@ -163,7 +163,7 @@ This SQL query retrieves a list of parents who have players in both the college 
 This SQL query retrieves a list of sponsors, their associated teams, and the sponsorship payment amounts. It provides a clear view of sponsors contributing significant amounts (exceeding $1000) to specific teams. This information is valuable for recognizing and nurturing key sponsor relationships, evaluating the financial impact of sponsorships, and determining which teams have attracted substantial sponsor support. Managers can use these insights to develop targeted strategies for engaging and retaining high-value sponsors, contributing to the financial health and success of their teams or organization.
 
 <h2>Query 7</h2>
-7. List all coaches who are associated with clubs that have a specific type of equipment, such as 'shoes’
+7. List all coaches who are associated with clubs that have a specific type of equipment, such as 'shoes’.
 
 ![image](https://github.com/nathanp2020/SP24-MIST4610-Group-2-Project-1/assets/148779254/0b867aa0-8131-4dc2-8d8a-49877ca15410)
 
@@ -171,7 +171,7 @@ This SQL query retrieves a list of sponsors, their associated teams, and the spo
 This query retrieves a list of financial transactions as well as the player name associated with each transaction record. It also provides transparency regarding financial transactions involving players, aiding in financial management and accountability.
 
 <h2>Query 8</h2>
-8. Find all jerseys rented on in the month of April to teams with Tiger in their name, group by club name
+8. Find all jerseys rented on in the month of April to teams with Tiger in their name, group by club name.
 
 ![image](https://github.com/nathanp2020/SP24-MIST4610-Group-2-Project-1/assets/148779254/25c652d2-3107-4116-b823-f20b33465b82)
 
@@ -187,7 +187,7 @@ This query finds all jerseys rented out in the month of April, and groups them b
 This query generates a list of players' parents who pay over 8000 dollars in fees and whose child is also sponsored by Adidas.  This query is useful for knowing which players' families pay higher fees and can help the club forecast and manage its finances more effectively and which companies are sponsoring these players. 
 
 <h2>Query 10</h2>
-10. List the players and coaches whose training sessions are located in the AL East 
+10. List the players and coaches whose training sessions are located in the AL East. 
 
 ![image](https://github.com/nathanp2020/SP24-MIST4610-Group-2-Project-1/assets/148779254/f7b71cd2-300d-47d1-96bb-f5018d7af4df)
 
